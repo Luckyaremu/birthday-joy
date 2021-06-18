@@ -153,6 +153,5 @@ document.ontouchstart = evt => birthday.onClick(evt)
 
     then = now
     birthday.update(delta / 1000)
-  	
 
   })()
